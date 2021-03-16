@@ -3,6 +3,8 @@
 # I wrote some code! It is in markdow. We'll talk about markdown soon. It's easy. Don't worry.
 
 ### I added code here using the dev branch
+
+# Made a quick change!
 ## I wrote more code here
 
 ### Here is code from my second commit
